@@ -12,7 +12,7 @@ def menuPrincipal():
     else:
         print("Opción invalidad ")
 menuPrincipal()
-"""
+
 l_arreglo = []
 
 #Nombre de funcióon
@@ -69,4 +69,3 @@ def eliminar(_elm):
     else:
       print("No puedo eliminar {0}, porque no existe ".format(_elm))
       print("No puedo eliminar ",_elm," porque no existe ")
-"""
